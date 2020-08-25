@@ -3,7 +3,7 @@
 
 	"name": "Wide Canvas VT",
 	"version": "0.1",
-	"description": "Disables width limit in VT Canvas CSS",
+	"description": "Disables width limit in VT Canvas CSS"
 	}
 
 	"content_scripts": [{
