@@ -1,0 +1,3 @@
+body:not(.full-width):not(.outcomes) .ic-Layout-wrapper {
+	max-width: none !important;
+}

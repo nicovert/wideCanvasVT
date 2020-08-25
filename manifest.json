@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+
+	"name": "Wide Canvas",
+	"version": "0.1",
+	"description": "Disables width limit in VT Canvas CSS",
+	}
+
+	"content_scripts": [{
+		"css": ["styles.css"],
+		"matches": ["*://canvas.vt.edu/*"]
+	}]
+
+}
