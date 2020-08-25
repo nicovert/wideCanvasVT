@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 
-	"name": "Wide Canvas",
+	"name": "Wide Canvas VT",
 	"version": "0.1",
 	"description": "Disables width limit in VT Canvas CSS",
 	}
